@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>belajar bootstrap</title>
+
+<meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet"href="css/bootstrap.css">
+
+<scriptsrc="js/jquery.js"></script>
+
+<scriptsrc="js/bootstrap.js"></script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>Bootstrap Example</title>
+
+<meta charset="utf8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet"href="css/bootstrap.css">
+
+<scriptsrc="js/jquery.js"></script>
+
+<scriptsrc="js/bootstrap.js"></script>
+
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>halaman pertama belajar bootstrap</h1>
+        
+        <p>hallo. . ini adalah halaman pertamaku menggunakan bootstrap</p>
+        
+        </div>
+        
+        <div class="container-fluid">
+        
+        <h1>halaman pertama belajar bootstrap</h1>
+        
+        <p>hallo. . ini adalah halaman pertamaku menggunakan bootstrap</p>
+        
+        </div>
+        
+        </body>
+        
+        </html>
+        
